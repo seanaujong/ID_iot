@@ -12,4 +12,4 @@ Create network-based tools that can identify medical devices and possibly their 
 
 # Operational Constraints
 
-Must be able to identify new devices being added to the networkMust be able to identify different types of medical devices.  Must be able to characterize these devices by SBOMs and/or network features.
+Must be able to identify new devices being added to the networkMust be able to identify different types of medical devices. Must be able to characterize these devices by SBOMs and/or network features.
